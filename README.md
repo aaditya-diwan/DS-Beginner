@@ -8,4 +8,4 @@ The data set consists of 50 samples from each of three species of Iris (Iris set
 
 2) TY-Sem-2
 ---------------------------------
-Air pollution data visualization and Prediction.
+<b>Air pollution data visualization and Prediction.</b>
